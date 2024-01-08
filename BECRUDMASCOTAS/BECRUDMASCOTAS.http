@@ -1,0 +1,6 @@
+@BECRUDMASCOTAS_HostAddress = http://localhost:5133
+
+GET {{BECRUDMASCOTAS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
